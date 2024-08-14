@@ -14,3 +14,8 @@
 
 ## 可视化-Tableau
 
+<p align="center">
+    <br>
+    <img src="../Final Result/screenshot.png" width="30%"/>
+    <br>
+</p>
