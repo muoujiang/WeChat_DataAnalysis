@@ -15,3 +15,8 @@ WeChat Data Analysis and Visualisation
 ## Emotional Analysis - Baidu AI
 
 ## Data Visualisation - Tableau
+<p align="center">
+    <br>
+    <img src="./Final Results/screenshot.png" width="100%"/>
+    <br>
+</p>
