@@ -17,6 +17,6 @@ WeChat Data Analysis and Visualisation
 ## Data Visualisation - Tableau
 <p align="center">
     <br>
-    <img src="./Final Results/screenshot.png" width="100%"/>
+    <img src="./Final Result/screenshot.png" width="100%"/>
     <br>
 </p>
