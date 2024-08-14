@@ -2,6 +2,8 @@
 微信聊天记录分析及可视化
 </h1>
 
+[中文文档](./docs/README-zh.md)
+
 ## 聊天记录导出
 - **Mac     WeChatExporter**: 导出为txt. 如果提示未受信任，需将mac安全设置更改。
 - **Windows Memotrace**:      导出为csv. ‘留痕’ 官网下载。
