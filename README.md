@@ -12,6 +12,6 @@ WeChat Data Analysis and Visualisation
 
 ## Fundamental Analysis - Python
 
-## Emotional Analysis - Python接入百度AI
+## Emotional Analysis - Baidu AI
 
 ## Data Visualisation - Tableau
